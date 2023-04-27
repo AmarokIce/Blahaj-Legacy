@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blahaj",
+  "name": "Blahaj",
+  "description": "Blahaj",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Someoneice"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
